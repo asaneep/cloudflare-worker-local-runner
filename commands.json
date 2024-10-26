@@ -1,0 +1,8 @@
+[
+    {
+        "tab_name": "RPC USER (8750)",
+        "directory": "D:/Project/user",
+        "port": 8750,
+        "script_name": "user"
+    }
+]
